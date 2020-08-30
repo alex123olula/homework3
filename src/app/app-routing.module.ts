@@ -1,11 +1,28 @@
 import { NgModule } from '@angular/core';
-import { Routes, RouterModule } from '@angular/router';
+import { RouterModule, Routes } from '@angular/router';
+import { MoviesComponent } from './movies/movies.component';
+import { FavoritesComponent } from './favorites/favorites.component';
 
+const routes: Routes = [
+    {
+        path      : '',
+        redirectTo: 'movies',
+        pathMatch : 'full'
+    },
+    {
+        path     : 'movies',
+        component: MoviesComponent
+    },
+    {
+        path     : 'favorite-movies',
+        component: FavoritesComponent
+    }
 
-const routes: Routes = [];
+];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+    imports: [RouterModule.forRoot(routes)],
+    exports: [RouterModule]
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {
+}

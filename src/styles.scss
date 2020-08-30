@@ -1,1 +1,78 @@
-/* You can add global styles to this file, and also import other style files */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: rgb(38, 38, 45);
+    font-family: Vaud, Helvetica Neue, sans-serif;
+    margin: 0;
+}
+
+.movies-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 213px);
+    grid-template-rows: repeat(auto-fill, 509px);
+    grid-gap: calc(100vw / 24);
+    height: auto;
+    margin-bottom: 10px;
+    justify-content: center;
+
+
+    .movie-card {
+        width: 212px;
+        height: 509px;
+
+
+        img {
+
+            height: 307px;
+        }
+
+
+        .movie-info {
+            .movie-name {
+                color: white;
+                font-size: 14px;
+                font-weight: 700;
+                line-height: 24px;
+                letter-spacing: .5px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                .mat-icon {
+                    color: #7e7e82;
+
+                    &:hover {
+                        color: white;
+                        cursor: pointer;
+                    }
+                }
+                .selected {
+                    color: yellow;
+                }
+            }
+
+            p {
+                color: #7e7e82;
+                font-size: 11px;
+                font-weight: 400;
+                line-height: 16px;
+                letter-spacing: .5px;
+            }
+        }
+
+        &.selected {
+            .movie-info {
+                .movie-name {
+                    .mat-icon {
+                        color: red;
+                    }
+                }
+            }
+        }
+    }
+}
+

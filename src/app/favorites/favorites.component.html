@@ -1,0 +1,23 @@
+<section>
+    <div class="total" *ngIf="totalPrice > 0">
+        <h1>Total: {{totalPrice}}$</h1>
+        <button (click)="clearMovies()">Clear favorites</button>
+    </div>
+    <div class="movies-container" *ngIf="totalPrice > 0">
+        <div *ngFor="let favoriteMovie of localFavoriteMovies"
+             class="movie-card">
+            <img src="{{favoriteMovie.image}}" alt="movie img">
+            <div class="movie-info">
+                <div class="movie-name">
+                    <span>{{favoriteMovie.name}}</span>
+                </div>
+                <p>{{favoriteMovie.price}}$</p>
+                <p>{{favoriteMovie.description}}</p>
+            </div>
+            <button (click)="deleteMovie(favoriteMovie)">Remove from favorites</button>
+        </div>
+    </div>
+    <div *ngIf="totalPrice == 0 " class="no-favorites">
+        <h1>Please select some movie</h1>
+    </div>
+</section>

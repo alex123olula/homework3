@@ -1,0 +1,28 @@
+$title-color: #eee;
+
+.movie-card {
+    display: flex;
+    flex-direction: column;
+
+    button {
+        margin-top: auto;
+    }
+
+}
+
+.total {
+    margin: 10% 0;
+    text-align: center;
+
+    h1 {
+        color: $title-color;
+    }
+}
+
+.no-favorites {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    color: $title-color;
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "id" : 1,
+    "name": "Candy1" ,
+    "description": "Candy is the dramatic tale of a female drug lord and her cohorts battling to maintain power in a big city. With respect from the streets and a crooked cop wanting them dead or alive, the only means of survival in the game is drugs, murder and dirty money.\n",
+    "price": 24,
+    "image": "https://canvas-bridge.tubitv.com/Z8CqEGBNn_jSyQp28icZL-HdxVQ=/400x574/smart/img.adrise.tv/3a6b2fa1-a89c-4781-bb99-792ffc989b37.jpg"
+  },
+  {
+    "id" : 2,
+    "name": "Pocket Full of Game" ,
+    "description": "A female gangster from Spanish Harlem commands respect for her loyalty, beauty and wealth before going deeper into the dangerous hustling game.",
+    "price": 26,
+    "image": "https://canvas-bridge.tubitv.com/eFCJlwqcIie3SnnLDDKio0WB2jE=/400x574/smart/img.adrise.tv/a52db5e7-a272-4afa-bf5d-b62982184782.jpg"
+  },
+  {
+    "id" : 3,
+    "name": "Final Kill" ,
+    "description": "A mercenary embarks on an action-packed thrill ride when he is hired to protect a couple hiding out in Central America from a ruthless crime family.",
+    "price": 30,
+    "image": "https://canvas-bridge.tubitv.com/HyBUtgi5SIzzE8FFL9EDk2BzMaM=/400x574/smart/img.adrise.tv/3ca7f466-b69a-4e00-a78f-c3ca18197d02.jpg"
+  },
+  {
+    "id" : 4,
+    "name": "Boss" ,
+    "description": "A woman who's down on her luck takes the chance to score some quick cash, but she crosses the wrong man in the process and has to fight for her life.\n",
+    "price": 22,
+    "image": "https://canvas-bridge.tubitv.com/S_jeKojVdUV4qGPbnwZ0N5oBiPA=/400x574/smart/img.adrise.tv/381bff12-f1fd-4238-a032-7de9ee8c7ad4.png"
+  },
+  {
+    "id" : 5,
+    "name": "Five-O" ,
+    "description": "In a world where police brutality and corruption are at its peak, two Detroit cops, JP & Len Stacey must become apart of the problem in order to satisfy their personal needs.\n",
+    "price": 30,
+    "image": "https://canvas-bridge02.tubitv.com/Cj8roo5i9jWloI6IedrqixBdPcs=/400x574/smart/img.adrise.tv/58f8fa4b-a3d1-4d1a-9fba-fb0516c0d963.jpg"
+  },
+  {
+    "id" : 6,
+    "name": "Chained" ,
+    "description": "A cautionary tale told about two women who decided to escape the poverty of 1980’s Spanish Harlem by climbing up the ladder of its darkest corners.\n",
+    "price": 20,
+    "image": "https://canvas-bridge.tubitv.com/N4G09RC54dDZUmeBzoVonQimdWo=/400x574/smart/img.adrise.tv/70eee649-6320-43a9-948f-24160c51eea3.jpg"
+  },
+  {
+    "id" : 7,
+    "name": "Candy1" ,
+    "description": "Candy is the dramatic tale of a female drug lord and her cohorts battling to maintain power in a big city. With respect from the streets and a crooked cop wanting them dead or alive, the only means of survival in the game is drugs, murder and dirty money.\n",
+    "price": 24,
+    "image": "https://canvas-bridge.tubitv.com/Z8CqEGBNn_jSyQp28icZL-HdxVQ=/400x574/smart/img.adrise.tv/3a6b2fa1-a89c-4781-bb99-792ffc989b37.jpg"
+  },
+  {
+    "id" : 8,
+    "name": "Pocket Full of Game" ,
+    "description": "A female gangster from Spanish Harlem commands respect for her loyalty, beauty and wealth before going deeper into the dangerous hustling game.",
+    "price": 26,
+    "image": "https://canvas-bridge.tubitv.com/eFCJlwqcIie3SnnLDDKio0WB2jE=/400x574/smart/img.adrise.tv/a52db5e7-a272-4afa-bf5d-b62982184782.jpg"
+  },
+  {
+    "id" : 9,
+    "name": "Final Kill" ,
+    "description": "A mercenary embarks on an action-packed thrill ride when he is hired to protect a couple hiding out in Central America from a ruthless crime family.",
+    "price": 30,
+    "image": "https://canvas-bridge.tubitv.com/HyBUtgi5SIzzE8FFL9EDk2BzMaM=/400x574/smart/img.adrise.tv/3ca7f466-b69a-4e00-a78f-c3ca18197d02.jpg"
+  },
+  {
+    "id" : 10,
+    "name": "Boss" ,
+    "description": "A woman who's down on her luck takes the chance to score some quick cash, but she crosses the wrong man in the process and has to fight for her life.\n",
+    "price": 22,
+    "image": "https://canvas-bridge.tubitv.com/S_jeKojVdUV4qGPbnwZ0N5oBiPA=/400x574/smart/img.adrise.tv/381bff12-f1fd-4238-a032-7de9ee8c7ad4.png"
+  },
+  {
+    "id" : 11,
+    "name": "Five-O" ,
+    "description": "In a world where police brutality and corruption are at its peak, two Detroit cops, JP & Len Stacey must become apart of the problem in order to satisfy their personal needs.\n",
+    "price": 30,
+    "image": "https://canvas-bridge02.tubitv.com/Cj8roo5i9jWloI6IedrqixBdPcs=/400x574/smart/img.adrise.tv/58f8fa4b-a3d1-4d1a-9fba-fb0516c0d963.jpg"
+  },
+  {
+    "id" : 12,
+    "name": "Chained" ,
+    "description": "A cautionary tale told about two women who decided to escape the poverty of 1980’s Spanish Harlem by climbing up the ladder of its darkest corners.\n",
+    "price": 20,
+    "image": "https://canvas-bridge.tubitv.com/N4G09RC54dDZUmeBzoVonQimdWo=/400x574/smart/img.adrise.tv/70eee649-6320-43a9-948f-24160c51eea3.jpg"
+  },
+  {
+    "id" : 13,
+    "name": "Boss" ,
+    "description": "A woman who's down on her luck takes the chance to score some quick cash, but she crosses the wrong man in the process and has to fight for her life.\n",
+    "price": 22,
+    "image": "https://canvas-bridge.tubitv.com/S_jeKojVdUV4qGPbnwZ0N5oBiPA=/400x574/smart/img.adrise.tv/381bff12-f1fd-4238-a032-7de9ee8c7ad4.png"
+  },
+  {
+    "id" : 14,
+    "name": "Five-O" ,
+    "description": "In a world where police brutality and corruption are at its peak, two Detroit cops, JP & Len Stacey must become apart of the problem in order to satisfy their personal needs.\n",
+    "price": 30,
+    "image": "https://canvas-bridge02.tubitv.com/Cj8roo5i9jWloI6IedrqixBdPcs=/400x574/smart/img.adrise.tv/58f8fa4b-a3d1-4d1a-9fba-fb0516c0d963.jpg"
+  },
+  {
+    "id" : 15,
+    "name": "Chained" ,
+    "description": "A cautionary tale told about two women who decided to escape the poverty of 1980’s Spanish Harlem by climbing up the ladder of its darkest corners.\n",
+    "price": 20,
+    "image": "https://canvas-bridge.tubitv.com/N4G09RC54dDZUmeBzoVonQimdWo=/400x574/smart/img.adrise.tv/70eee649-6320-43a9-948f-24160c51eea3.jpg"
+  }
+]

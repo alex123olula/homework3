@@ -1,0 +1,22 @@
+<section>
+    <div class="movies-container">
+        <div *ngFor="let movie of movies"
+             class="movie-card" [ngClass]="{
+                                'selected': idS.includes(movie.id)
+                              }">
+            <img src="{{movie.image}}" alt="movie img">
+            <div class="movie-info">
+
+                <div class="movie-name">
+                    <span>{{movie.name}}</span>
+                    <mat-icon (click)="addToFavorite(movie);  isMovieFavorite(movie); setId()"
+                    >favorite
+                    </mat-icon>
+                </div>
+                <p>{{movie.price}}$</p>
+                <p>{{movie.description}}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
